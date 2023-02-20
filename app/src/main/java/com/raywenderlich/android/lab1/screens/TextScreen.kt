@@ -43,4 +43,5 @@ fun MyText() {
         fontSize = 30.sp,
         fontWeight = FontWeight.Bold
     )
+
 }
