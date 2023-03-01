@@ -31,5 +31,7 @@
     <string name="scroll">Прокрутка</string>
     <string name="covers">Обложки</string>
     <string name="List">List</string>
+    <string name="grid_icon">Grid</string>
+    <string name="Grid">Grid</string>
 
 </resources>

@@ -1,12 +1,15 @@
 package com.raywenderlich.android.lab1.app
 
 import androidx.compose.animation.Crossfade
+import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import com.raywenderlich.android.lab1.router.FundamentalsRouter
 import com.raywenderlich.android.lab1.router.Screen
 import com.raywenderlich.android.lab1.screens.*
+
+@OptIn(ExperimentalFoundationApi::class)
 
 @Composable
 fun FundamentalsApp() {
